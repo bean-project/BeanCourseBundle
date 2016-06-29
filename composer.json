@@ -1,8 +1,8 @@
 {
-  "name": "bean-project/job-bundle",
+  "name": "bean-project/course-bundle",
   "type": "symfony-bundle",
-  "description": "Symfony BeanJobBundle",
-  "keywords": ["job", "bean", "jobboard"],
+  "description": "Symfony BeanCourseBundle",
+  "keywords": ["learning","course", "bundle", "bean"],
   "license": "MIT",
   "authors": [
     {
