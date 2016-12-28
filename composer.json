@@ -34,7 +34,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "autoload": {
-    "psr-4": { "Bean\\JobBundle\\": "" }
+    "psr-4": { "Bean\\CourseBundle\\": "" }
   },
   "extra": {
     "branch-alias": {
